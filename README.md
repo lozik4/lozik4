@@ -72,8 +72,8 @@ I also have experience in mobile application testing, as well as API development
 ### 🛠 Instruments:
 
 <div>
-  <img src="https://intellij-support.jetbrains.com/hc/user_images/Sg7SwOJLuCr9zQ6A333tpg.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/DataGrip.svg" title="DataGrip" alt="DataGrip" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_datagrip_macos_bigsur_icon_190058.png" title="DataGrip" alt="DataGrip" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/iterm_terminal_icon_161274.png" title="Iterm" alt="Iterm" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/finder_macos_bigsur_icon_190173.png" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
