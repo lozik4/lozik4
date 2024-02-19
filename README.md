@@ -1,4 +1,4 @@
-# Hi! My name <ins>Serhii Lozytskyi</ins>
+# Hi! 👋  <br> I'm <ins>Serhii Lozytskyi</ins>
 
 ---
 
