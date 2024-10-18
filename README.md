@@ -21,11 +21,11 @@ I also have experience in mobile application testing, as well as API development
     <ul>
         <p><img src="https://www.netgamenv.com/wp-content/themes/netgeme_2018/image/favicon/favicon.ico" title="Netgame" alt="Netgame" width="20" height="20" /> &nbsp QA Automation Lead - Netgame </p>
         <p><img src="https://show4me.com/assets/favicon/favicon-32x32.png" title="Show4Me" alt="Show4Me" width="20" height="20" /> &nbsp Senior QA Automation - Show4Me</p>
-        <p><img src="https://onlineitea.com/wp-content/uploads/2020/11/itea_favoicon.svg" title="ITEA" alt="ITEA" width="20" height="20" /> &nbsp QA Coach - ITEA School</p>
+        <p><img src="img/itea.png" title="ITEA" alt="ITEA" width="20" height="20" /> &nbsp QA Coach - ITEA School</p>
         <p><img src="https://develux.com/wp-content/uploads/2023/04/60a37364a03fff6a71c1852b_Develux-Favicon.png" title="Develux" alt="Develux" width="20" height="20" /> &nbsp QA Lead - Develux</p>
-        <p><img src="https://media.licdn.com/dms/image/C560BAQEY9Wpu7gqURg/company-logo_200_200/0/1631336762651?e=1716422400&v=beta&t=qIN-7m41eFdC9I6zgi5tiZP317m7oX2LmUBDNEQLiWg" title="Aurora" alt="Aurora" width="20" height="20" /> &nbsp QA Engineer - NDA </p>
+        <p><img src="img/aurora.png" title="Aurora" alt="Aurora" width="20" height="20" /> &nbsp QA Engineer - NDA </p>
         <p><img src="https://www.kadam.net/favicon.ico" title="Kadam" alt="Kadam" width="20" height="20" /> &nbsp QA Engineer | Project Manager - Kadam </p>
-        <p><img src="https://msl.ua/favicon.ico" title="MSL" alt="MSL" width="20" height="20" /> &nbsp QA Engineer - MSL </p>
+        <p><img src="https://msl.com.ua/favicon.ico" title="MSL" alt="MSL" width="20" height="20" /> &nbsp QA Engineer - MSL </p>
         <p><img src="https://qalight.ua/wp-content/uploads/2024/01/cropped-qa-favicon-32x32.png" title="QA Light" alt="QA Light" width="20" height="20" /> &nbsp Junior QA Engineer - QA Light Outsource </p>
     </ul>
 </div>
@@ -59,7 +59,7 @@ I also have experience in mobile application testing, as well as API development
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://fastapi.tiangolo.com/img/favicon.png" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp
   <img src="https://docs.pytest.org/en/8.0.x/_static/pytest_logo_curves.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp
-  <img src="https://allurereport.org/assets/favicon-32x32.35d5b2c5.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp
+  <img src="https://allurereport.org/favicon.ico" title="Allure" alt="Allure" width="40" height="40"/>&nbsp
   <img src="https://appium.io/docs/en/latest/assets/images/appium-logo.png" title="Appium" alt="Appium" width="40" height="40"/>&nbsp
   <img src="https://aerokube.com/selenoid/latest/img/favicon.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp
   <img src="https://playwright.dev/python/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp
