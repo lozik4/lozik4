@@ -19,7 +19,7 @@ I also have experience in mobile application testing, as well as API development
 
 <div>
     <ul>
-        <p><img src="https://www.netgamenv.com/wp-content/themes/netgeme_2018/image/favicon/favicon.ico" title="Netgame" alt="Netgame" width="20" height="20" /> &nbsp QA Automation Lead - Netgame </p>
+        <p><img src="" title="NDA" alt="NDA" width="20" height="20" /> &nbsp QA Automation Lead - NDA </p>
         <p><img src="https://show4me.com/assets/favicon/favicon-32x32.png" title="Show4Me" alt="Show4Me" width="20" height="20" /> &nbsp Senior QA Automation - Show4Me</p>
         <p><img src="img/itea.png" title="ITEA" alt="ITEA" width="20" height="20" /> &nbsp QA Coach - ITEA School</p>
         <p><img src="https://develux.com/wp-content/uploads/2023/04/60a37364a03fff6a71c1852b_Develux-Favicon.png" title="Develux" alt="Develux" width="20" height="20" /> &nbsp QA Lead - Develux</p>
@@ -84,21 +84,6 @@ I also have experience in mobile application testing, as well as API development
 </div>
 
 ---
-
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
-
---- -->
 
 ### 💻 Codewars:
 
