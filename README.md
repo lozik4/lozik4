@@ -19,7 +19,7 @@ I also have experience in mobile application testing, as well as API development
 
 <div>
     <ul>
-        <p><img src="" title="NDA" alt="NDA" width="20" height="20" /> &nbsp QA Automation Lead - NDA </p>
+        <p><img src="https://framerusercontent.com/images/cGOvfbFkpmwyPBCGqUz0JK4u4TI.png" title="KingGroup" alt="NDA" width="20" height="20" /> &nbsp QA Automation Lead - KingGroup </p>
         <p><img src="https://show4me.com/assets/favicon/favicon-32x32.png" title="Show4Me" alt="Show4Me" width="20" height="20" /> &nbsp Senior QA Automation - Show4Me</p>
         <p><img src="img/itea.png" title="ITEA" alt="ITEA" width="20" height="20" /> &nbsp QA Coach - ITEA School</p>
         <p><img src="https://develux.com/wp-content/uploads/2023/04/60a37364a03fff6a71c1852b_Develux-Favicon.png" title="Develux" alt="Develux" width="20" height="20" /> &nbsp QA Lead - Develux</p>
